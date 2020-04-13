@@ -20,10 +20,12 @@ Generates a tailwind js config file
 **About tailwind css and integrating it with react**
 
 ```
-Tailwind css file is compiled to the main.css file which is then added to our application.More like how sass is compiled.
+(a)Tailwind css file is compiled to the main.css file which is then added to our application.More like how sass is compiled.
 This done is via a build script.
 
-Compiling it is like bringing in the new classes.
+(b)Compiling it is like bringing in the new classes.
+
+(c)app .js and index.js are the most imporatant javascript files.
 
 ```
 
