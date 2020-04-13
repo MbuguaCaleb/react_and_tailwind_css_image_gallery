@@ -29,6 +29,21 @@ This done is via a build script.
 
 ```
 
+**UseState and UseEffect**
+
+```
+(a)useState is similar like setState with hooks and useEffect works similarly like life cycle methods.
+
+
+(b)useState allows functional components to have state, like this.state in class components.
+useEffect allows functional components to have lifecycle methods (such as componentDidMount, componentDidUpdate and componentWillUnmount)
+
+(c)when ever you add something to env you must restart your server.
+
+(d)Props can take in a state value.This is very important to remember.looping though should
+have a unique id.
+```
+
 **Notes by**
 
 ```
